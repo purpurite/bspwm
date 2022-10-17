@@ -1,4 +1,6 @@
 
+work in progress
+
 ```
 bspc config normal_border_color "#3D4B66"
 bspc config active_border_color "#99FFDD"
