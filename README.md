@@ -1,9 +1,17 @@
+<br />
+<br />
+<p align=center><a href=https://purpurite.ehan.dev><img width=200 height=200 src=https://purpurite.ehan.dev/colorBoxes/purple5.png></a></p>
+<h1 align=center> purpurite - bspwm </h1>
+<p align=center> A purple-ish-dark theme for <a href="https://github.com/baskerville/bspwm">bspwm</a> & more </p>
+<p align=center> <a href=https://purpurite.ehan.dev> Website </a> - <a href=https://github.com/purpurite> GitHub </a> </p>
 
-work in progress
+<br />
 
-```
-bspc config normal_border_color "#3D4B66"
-bspc config active_border_color "#99FFDD"
-bspc config focused_border_color "#9999FF"
-bspc config presel_feedback_color "#99FFDD"
-```
+-    [Installation](#installaiton)
+-    [Screenshots](#screenshots)
+-    [Contributors](#contributors)
+
+<br />
+
+> This theme is for 
+
