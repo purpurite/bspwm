@@ -13,5 +13,5 @@
 
 <br />
 
-> This theme is for 
+> This theme is for [bspwm](https://github.com/baskerville/bspwm)
 
